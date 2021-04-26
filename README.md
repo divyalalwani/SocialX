@@ -5,6 +5,7 @@ I have even curated the news feed so that the most tipped posts appear at the to
 It also has a slick mobile-friendly user interface, where everyone gets a fancy icon automatically for their account.
 
 Here is a complete list of all the files inside the project:-
+
 -Truffle Project Structure
 
 -migrations directory: this is where the migration files will live that allow us to put new smart contracts on the blockchain.
