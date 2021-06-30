@@ -1,7 +1,7 @@
 This is a blockchain social network powered by smart contracts where you can get paid to post.
 Other users can tip your status updates with cryptocurrency, so that you’re rewarded for creating great content.
 It's censorship resistant, so nobody can restrict the content that you post or see.
-I have even curated the news feed so that the most tipped posts appear at the top, instead of relying upon "an algorithm" that nobody understands.
+It hs a curated news feed so that the most tipped posts appear at the top, instead of relying upon "an algorithm" that nobody understands.
 It also has a slick mobile-friendly user interface, where everyone gets a fancy icon automatically for their account.
 
 Here is a complete list of all the files inside the project:-
