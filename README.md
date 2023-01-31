@@ -6,7 +6,7 @@ It also has a slick mobile-friendly user interface, where everyone gets a fancy 
 
 Here is a complete list of all the files inside the project:-
 
--Truffle Project Structure
+#Truffle Project Structure
 
 -migrations directory: this is where the migration files will live that allow us to put new smart contracts on the blockchain.
 
